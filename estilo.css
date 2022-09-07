@@ -1,0 +1,43 @@
+
+    h1{
+    position: absolute;top:0px;left:480px;
+    text-align: center;
+    color: white;
+    font-family:"Venice Classic";
+    font-size:70pt;
+    }
+
+    p {
+    text-align: center;
+    }
+
+    body{
+    background-image: url(10873.jpg);
+    margin:0;
+    padding:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    }
+
+    .btn-neon{
+      color: white;
+      font-family:"Venice Classic";
+      text-decoration: none;
+      border:10px solid;
+      border-color: green;
+      border-radius: 30px;
+      background-color: green;
+      font-size: 40px;
+      padding: 0.5em 1.2em;
+      position: relative;
+      }
+
+      .btn-neon:hover{
+      color: yellow;
+      box-shadow: 0 4px 16px ;
+      transition: all 0.2s ease;
+
+      }
